@@ -15,3 +15,4 @@ items.forEach((item) => {
   </div>`;
 });
 itemsContainerElement.innerHTML = innerHTML;
+console.log("I am inside index.js");
