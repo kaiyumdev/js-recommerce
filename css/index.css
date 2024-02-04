@@ -194,6 +194,7 @@ header {
 .items-container {
   width: 80%;
   margin: 50px 10%;
+  /* padding: 20px; */
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -241,6 +242,7 @@ header {
 
 .item-container {
   width: 250px;
+  margin: 10px;
 }
 .item-image {
   width: 100%;
@@ -313,6 +315,7 @@ header {
   border: none;
   padding: 5px 15px;
   border-radius: 10px;
+  cursor: pointer;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
